@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2016 Andrés Prieto
+Copyright (c) 2016  Eleuterio F. Toro, Elena Vázquez-Cendón, Marcos Loureiro, 
+                    P. Rodríguez, C. Spiller, Andrés Prieto
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
